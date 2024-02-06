@@ -1,8 +1,6 @@
 {
   "username": "",
   "list_of_links": [],
-  "last_accessed_reel": {
-    "reel_link": "",
-    "date": ""
-  }
+  "last_accessed_reel": "",
+  "last_accessed_date": ""
 }
